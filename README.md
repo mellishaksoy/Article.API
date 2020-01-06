@@ -11,10 +11,10 @@
 - Tablolarda SoftDelete kullanılmıştır.
 - 
 Örnek: User: 1- Username = "admin",
-                Password = "admin123"
+                Password = "Password123!"
 				
 			 2- Username = "guest",
-                Password = "qwe123"
+                Password = "Password123!"
 				
 			 3- Username = "melis",
                 Password = "Password123!"
